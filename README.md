@@ -18,17 +18,7 @@ Python scripts and Jupyter notebooks for data analysis and visualization.
 Trend analysis and SWOT evaluation.
 Graphical performance charts for reporting.
 🚀 Usage
-Clone the repository:
-git clone https://github.com/yourusername/aiesec-repository.git
 Install required packages:
 pip install pandas matplotlib
 Open Jupyter notebooks to explore data and generate insights.
-🌟 Goals
-Understand LC and oGV performance trends.
-Identify bottlenecks and achievements.
-Develop strategies for +25–30% growth in approvals and engagement.
-🤝 Contribution
-Contributions welcome! Submit pull requests for:
-Updated data or metrics.
-Enhanced scripts or visualizations.
-New performance analyses.
+
