@@ -25,4 +25,5 @@ Graphical performance charts for reporting.
 🚀 Usage
 Install required packages:
 pip install pandas matplotlib
+
 Open Jupyter notebooks to explore data and generate insights.
